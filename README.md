@@ -1,7 +1,7 @@
 
 ### Hi there!
 
-+ 🎒 I am an undergraduate student in Nanchang University (majoring in computer science).
++ 🎒 I am an undergraduate student in Nanchang University (majoring in computer science, grade 2019).
 + 💻 I'm working on some private projects for my school.
 + 👬 I'm working on Internet projects with friends in a cozy "family" [@NCUHOME 🏠](https://github.com/ncuhome)!
 + 📚 I'm learning about WEB backend development and part of the DevOps.
