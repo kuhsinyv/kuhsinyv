@@ -9,3 +9,8 @@
 ### GitHub Stats
 
 &nbsp;[![kuhsinyv's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuhsinyv&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=kuhsinyv&count_private=true&show_icons=true)
+
+---
+
+[![kuhsinyv's GitHub stats (more)](https://github.com/kuhsinyv/stats/blob/master/generated/overview.svg)](https://github.com/kuhsinyv/stats/blob/master/generated/overview.svg)
+ [![Top Langs](https://github.com/kuhsinyv/stats/blob/master/generated/languages.svg)](https://github.com/kuhsinyv/stats/blob/master/generated/languages.svg)
