@@ -8,4 +8,4 @@
 
 ### GitHub Stats
 
-&nbsp;[![kuhsinyv's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuhsinyv&count_private=true&show_icons=true&theme=default&bg_color=45,69FF97,00E4FF)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;[![kuhsinyv's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuhsinyv&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=kuhsinyv&count_private=true&show_icons=true)
